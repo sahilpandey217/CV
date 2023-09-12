@@ -1,0 +1,32 @@
+body {
+  background-color: #d6e8db;
+  /* background-color: #EAF6F6; */
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+    /* color: #345e5e; */
+    color: #66BFBF;
+    /* text-decoration: none; */
+    /* text-align: justify; */
+}
+h3 {
+    color: #345e5e;
+    /* text-align: left; */
+    /* color: #4bd6d6; */
+}
+.index:hover {
+  direction: rtl;
+  unicode-bidi: bidi-override;
+}
+/* p {
+  direction:rtl;
+  unicode-bidi: bidi-override;
+} */
